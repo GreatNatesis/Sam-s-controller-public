@@ -4,7 +4,7 @@ color 0a
 cls
 :start
 cls
-sammy (my git repo)
+echo sammy (my git repo)
 
 echo.
 set /p main= control//
